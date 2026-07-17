@@ -13,7 +13,7 @@ def main():
 
     # Initialize components
     script_analyzer = ScriptAnalyzer()
-    storyboard_generator = StoryboardGenerator()
+    storyboard_generator = StoryboardGenerator(backend="stable-diffusion")
 
     # Read script
     script_path = Path(args.script)

@@ -7,3 +7,4 @@ dist/Script2Storyboard.exe/
 build/
 dist/
 __pycache__/
+.env

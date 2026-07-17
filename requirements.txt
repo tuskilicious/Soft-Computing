@@ -94,7 +94,7 @@ transformers==5.14.1
 typer==0.15.3
 typing-inspection==0.4.0
 typing_extensions==4.13.2
-urllib3==2.4.0
+urllib3==2.7.0
 uvicorn==0.34.2
 wasabi==1.1.3
 weasel==0.4.1

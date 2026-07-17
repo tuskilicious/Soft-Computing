@@ -4,3 +4,6 @@ output/
 build/Script2Storyboard/PYZ-00.pyz/
 build/Script2Storyboard/Script2Storyboard.pkg/
 dist/Script2Storyboard.exe/
+build/
+dist/
+__pycache__/
